@@ -1,0 +1,31 @@
+h1 {
+  color: green;
+  text-align: left;
+}
+body{
+  font: 100% san serif;
+  line-height: 1.88889;
+  color: black;
+  background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  color: green;
+  font-style: oblique;
+  text-align: center;
+}
+a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #B7A5DF;
+p {
+  font-family: sans-serif;
+  text-align: left;
+  letter-spacing: inherit;
+}
+ul {
+  line-height: 40px;
+  background-color: inherit;
+}
