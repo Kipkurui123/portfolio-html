@@ -1,4 +1,5 @@
 h1 {
+<<<<<<< HEAD
   color: #D00A0A;
   text-align: left;
   font-size: 72px;
@@ -7,11 +8,24 @@ h1 {
 }
 body{
   background-color: #40CAE7;
+=======
+  color: green;
+  text-align: left;
+}
+body{
+  font: 100% san serif;
+  line-height: 1.88889;
+  color: black;
+  background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+  margin: 0;
+  padding: 0;
+>>>>>>> 701753b4ff14e3d44cdf9f7ad2b16c5228205f37
 }
 
 h2 {
   color: green;
   font-style: oblique;
+<<<<<<< HEAD
   text-align: left;
   font-size: 36px;
   font-display: underline;
@@ -29,4 +43,20 @@ em{
     text-align: center;
     font-weight: bolder;
     font-family: fantasy;
+=======
+  text-align: center;
+}
+a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #B7A5DF;
+p {
+  font-family: sans-serif;
+  text-align: left;
+  letter-spacing: inherit;
+}
+ul {
+  line-height: 40px;
+  background-color: inherit;
+>>>>>>> 701753b4ff14e3d44cdf9f7ad2b16c5228205f37
 }
